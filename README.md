@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiegoTazAju
 - 👀 I’m interested in Programação
 - 🌱 I’m currently learning MySQL, Java POO, Pyhon...
-- 💞️ I’m looking to collaborate on qualquer tipo de projetos
+- 💞️ I’m looking to collaborate on qualquer tipo de projeto
 - 📫 How to reach me diego.spassos@souunit.com.br
 
 <!---
